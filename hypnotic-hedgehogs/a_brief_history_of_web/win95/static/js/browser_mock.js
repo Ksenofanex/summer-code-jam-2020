@@ -15,7 +15,7 @@ function change_page() {
         clippy.load('Merlin', (agent) => {
                       // do anything with the loaded agent
                       agent.show();
-                      agent.speak("Remember what we said before? Great events start with small steps? That's exactly what happened on YouTube. YouTube, which entered the internet environment by calling out from a zoo sincerely, is currently the most popular video and live streaming platform on the planet. We do not know what we would have done without YouTube; which functions as a movie theater, school, concert and game zone. Thank you YouTube for being so beneficial! To continue the trip, you can take another url from the notebook on the left by descending order, paste it in the address part of the browser, and press the Go button."
+                      agent.speak("Daha önce ne dediğimizi hatırlıyor musun? Muhteşem olaylar, küçük adımlarla başlar? YouTube'da olan da tam olarak buydu. İnternet ortamına bir hayvanat bahçesinden seslenerek giriş yapan YouTube, şu anda gezegendeki en popüler video ve canlı yayın platformu. Sinema, okul, konser, oyun salonu gibi işlevler gören YouTube olmasaydı ne yapardık bilemiyoruz. Bu kadar faydalı olduğun için teşekkürler YouTube!"
 );
                       setTimeout(() =>{
                           agent.hide();
@@ -27,7 +27,7 @@ function change_page() {
         clippy.load('Merlin', (agent) => {
                       // do anything with the loaded agent
                       agent.show();
-                      agent.speak( "Google, derived from the mathematical term Googol and created by two college students in the garage, literally changed the world, history, and people's lives. Changing the way we reach information, answers, questions, requests and people, this search engine has revolutionized every aspect of life. Thanks to Google, the world is now more integrated, people are more curious and wiser, and life is more interesting. Thank you Google! To continue the trip, you can take another url from the notebook on the left by descending order, paste it in the address part of the browser, and press the Go button."
+                      agent.speak( "Bu Google ismine sahip, Googol matematik teriminden türetilmiş olan ve iki üniversite öğrencisinin garajda yarattığı site, kelimenin tam anlamıyla Dünya'yı, tarihi ve insanların yaşantısını değiştirdi. Bilgiye, cevaplara, sorulara, isteklerimize ve insanlara ulaşma yolumuzu değiştiren bu arama motoru, bilişsel anlamda bir devrim yaptı. Google sayesinde artık Dünya daha bütünleşik, insanlar daha meraklı ve bilge ve hayat daha ilginç. İyi ki varsın Google! Geziye devam etmek için soldaki not defterinden bir başka url alıp, tarayıcının adres kısmına yapıştırdıktan sonra Go butonuna basabilirsin."
 );
 
                       setTimeout(() =>{
@@ -40,7 +40,7 @@ function change_page() {
         clippy.load('Merlin', (agent) => {
                       // do anything with the loaded agent
                       agent.show();
-                      agent.speak( "Jack was unaware that by setting up his 'twittr', he was building a site where he would make an unimaginable contribution to freedom of expression, thought sharing, polyphony and diversity. Thanks to Twitter, freedom of expression, polyphony, respect for differences and living in harmony have become possible and spread like never before. Thanks Twitter and Jack for supporting and spreading the freedoms! To continue the trip, you can take another url from the notebook on the left by descending order, paste it in the address part of the browser, and press the Go button."
+                      agent.speak( "Jack, bu Tweet'i atarak ve bu siteyi kurarak ifade özgürlüğüne, düşünce paylaşımına, çoksesliliğe ve farklılığa tahmin edemeyeceği kadar büyük katkılar yapacağı bir site kurduğunun hiç farkında değildi. Twitter sayesinde ifade özgürlüğü, çokseslilik, farklılıklara saygı duyma ve uyum içinde yaşama daha önce hiç olmadığı kadar mümkün oldu ve yayıldı. Özgürlükleri destekleyip yaydığın için teşekkürler Twitter ve Jack!"
 );
                       setTimeout(() =>{
                           agent.hide();
@@ -53,7 +53,7 @@ function change_page() {
         clippy.load('Merlin', (agent) => {
                       // do anything with the loaded agent
                       agent.show();
-                      agent.speak( "In the '90s, when the Internet emerged and just started to spread, the most popular sites at first looked like this one. Personal blogs were in his place. Thanks to this democratic technology, everyone wanted to express themselves, share their thoughts and leave a mark in history. They did and are keep doing. To continue the trip, you can take another url from the notebook on the left by descending order, paste it in the address part of the browser, and press the Go button."
+                      agent.speak( "İnternet'in ortaya çıktığı ve yeni yeni yaygınlaşmaya başladığı '90'larda, ilk başlarda en popüler siteler bu gördüğün siteye benziyordu. Şahsi bloglar her yerdeydi. Bu demokratik teknoloji sayesinde herkes kendini ifade etmek, düşüncelerini paylaşmak ve tarihte bir iz bırakmak istiyordu. Ve bıraktılar da. Geziye devam etmek için soldaki not defterinden bir başka url alıp, tarayıcının adres kısmına yapıştırdıktan sonra Go butonuna basabilirsin."
 );
                       setTimeout(() =>{
                           agent.hide();
@@ -65,7 +65,7 @@ function change_page() {
         clippy.load('Merlin', (agent) => {
                       // do anything with the loaded agent
                       agent.show();
-                      agent.speak( "And here we are, the end of the trip. But before we split our roads, let me say a few more words.This young technology, which is just 30 years old, has already changed our lives in ways we never imagined, and it continues to change. We hope that this short trip to the history of the Internet has been inspiring and informative for you. And we hope again that the Internet continues to be a democratic, revolutionary, magical and useful technology. To make sure the Internet will stay like this, don't just use these beautiful sites and the Internet, but also contribute. Create something and change the world, leave a mark. Do it so that when people will go on a nostalgic trip with a project like this in the future, they will be able to see your creation and contribution. Hokus pokus, abra kadabra! Let time flow forward and the magic of the Internet continues to spread! Keep staying online and magical!"
+                      agent.speak( "Ve işte, böylelikle gezimizin sonuna geldik. Daha yenüz 30 yaşında olan bu genç teknoloji, çoktan hayatlarımızı hiç tahmin edemediğimiz şekillerde değiştirdi ve değiştirmeye devam ediyor. Umuyoruz ki, İnternet'in tarihine çıktığımız bu kısa gezi sizin için ilham verici ve bilginlendirici olmuştur. Ve yine umuyoruz ki, İnternet, demokratik, devrimsel, büyülü ve faydalı bir teknoloji olmaya devam eder. Bu güzel siteleri sadece kullanmakla kalmayın, aynı zamanda siz de katkıda bulunun. Siz de bir şeyler yaratıp Dünya'yı değiştirin, bir iz bırakın. Yapın ki, gelecekte yine böyle bir projeyle nostaljik bir geziye çıkıldığında, sizin yaptıklarınıza da yer verilsin, böylelikle tarihe geçin. Hokus pokus, abra kadabra! Zaman ileri aksın ve İnternet'in büyüsü yayılmaya devam etsin! Çevrim içi ve büyülü kalmaya devam edin! :)"
 );
 
                       setTimeout(() =>{

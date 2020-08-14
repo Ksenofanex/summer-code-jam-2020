@@ -2,12 +2,12 @@
     // do anything with the loaded agent
     agent.show();
 
-    agentSpeak(agent,"Hello, stranger! Welcome to this nostalgic trip! Soon, you will witness events that completely changed the course of history and became the most important milestones in human history. Enjoy it!");
+    agentSpeak(agent,"Merhaba, yabancı! Bu nostaljik geziye hoşgeldin! Birazdan tarihin akışını tamamen değiştiren, insanlık tarihinin en önemli kilometre taşları haline gelen olaylara tanıklık edeceksin. Tadını çıkar!");
     setTimeout(() => {
-      agentSpeak(agent,"A long time ago in a galaxy far far away, a brand new and abstract technology just entered the stage of history. Like any new technology, it was naive and flawed. Its beginning was also humble. Sic parvis magna! But remember, great events start with small steps!");
+      agentSpeak(agent,"Uzun zaman önce, çok çok uzun bir galakside, yepyeni, soyut bir teknoloji tarih sahnesine yeni çıkmıştı. Yeni çıkan her teknoloji gibi, o da toy ve kusurluydu. Onun başlangıcı da mütevazıydı. Ama unutma, muhteşem olaylar, küçük adımlarla başlar. Sic parvis magna!");
     }, 8000);
     setTimeout(() => {
-      agentSpeak(agent,"Now, to begin this nostalgic trip, enter your name to the Username field and click to Connect.");
+      agentSpeak(agent,"Bu nostaljik geziye başlamak için Username kısmına adını gir ve Connect butonuna bas.");
     }, 20000);
     setTimeout(() => {
       agent.play("")
@@ -27,18 +27,18 @@ function hideIt(params) {
           $(".internet-explorer").css("display","inline");
           clippy.load("Merlin",(agent) => {
     agent.show();
-    agentSpeak(agent,"Welcome to the world of Internet, "+username+". Ahh... I need to check something quickly...");
+    agentSpeak(agent,"İnternet'in dünyasına hoşgeldin, "+username+". Hızlıca bir şeye göz atmalıyım, bir saniye...");
     agent.play("Reading")
-agentSpeak(agent, "According to my book of Eternal Wisdom, the Internet is one of the most revolutionary, democratic, magical and beneficial technology ever invented. It's one of the greatest successes of mankind.")
+agentSpeak(agent, "Ebedi Bilgelik kitabıma göre, İnternet teknolojisi, şimdiye kadar icat edilmiş en devrimsel, büyülü, demokratik ve faydalı teknolojilerden biridir. İnsanoğlunun en büyük başarılarından biridir.")
                   agent.play("Reading")
 
-agentSpeak(agent, "Once a wise man named Arthur Clarke said: Any sufficiently advanced technology is indistinguishable from magic.")
+agentSpeak(agent, "Bir zamanlar Arthur Clarke adında bilge bir adam şöyle demiş: Yeterince ileri her teknoloji, büyüden farksızdır.")
                       agent.play("GestureUp")
 
-    agentSpeak(agent, "This magical technology has made knowledge accessible and equal to all. Thus, it provided us with the opportunity to obtain and share information and to create a brand new reality in a digital and abstract layer, in a layer where everything is possible, by getting rid of the constraints of physical conditions.")
+    agentSpeak(agent, "Bu büyülü teknoloji bilgiyi herkes için ulaşılabilir ve eşit kılmıştır. Böylece bilgi edinme, bilgiyi paylaşma ve fiziksel koşulların kısıtlamalarından kurtulup dijital ve soyut bir katmanda, her şeyin mümkün olduğu bir katmanda bize yepyeni bir gerçeklik yaratma imkanı sunmuştur.")
                   agent.play("Reading")
 
-    agentSpeak(agent,"Listen, there’s a hell of a good universe next door; choose one of the urls from the notepad on the left by descending order, then paste it to the address bar of the browser, click to Go button and let’s go!");
+    agentSpeak(agent,"Şimdi dikkatle beni dinle! Birkaç tık ötende keşfedilmeyi bekleyen kocaman büyülü bir evren var. Sol taraftaki not defterindeki URL'leri yukarıdan aşağı doğru, her seferinde bir tane olmak üzere, kopyalayıp tarayıcının adres kısmına basıp Go butonuna basmalısın. Go butonuna bas ve bu büyülü evrene dal!");
     agent.play("");
     setTimeout(() => {
         agent.hide();
